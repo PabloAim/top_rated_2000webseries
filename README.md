@@ -171,34 +171,34 @@ Conclusão Final Do Projeto
 ## Gráficos Principais
 
 ### 1. Top 15 Países
-![Top 15 Países](imagens/01 - Top 15 países.png)
+![Top 15 Países](imagens/01_Top_15_países.png)
 
 ### 2. Top 15 Idiomas
-![Top 15 Idiomas](imagens/02 - Top 15 idiomas.png)
+![Top 15 Idiomas](imagens/02_Top_15_idiomas.png)
 
 ### 3. Top 20 Séries
-![Top 20 Séries](imagens/03 - Top 20 Series.png)
+![Top 20 Séries](imagens/03_Top_20_Series.png)
 
 ### 4. Gêneros mais presentes e distribuição dominante
-![Gêneros mais presentes e distribuição dominante](imagens/04 - Gêneros mais presentes e distribuição dominante.png)
+![Gêneros mais presentes e distribuição dominante](imagens/04_Gêneros_mais_presentes_e_distribuição_dominante.png)
 
 ### 5. Queda de séries de qualidade pós-2020
-![Queda de séries de qualidade](imagens/05 - Queda de séries de qualidade.png)
+![Queda de séries de qualidade](imagens/05_Queda_de_séries_de_qualidade.png)
 
 ### 6. Relação volume vs qualidade
-![Relação volume vs qualidade](imagens/06 - Relação volume vs qualidade.png)
+![Relação volume vs qualidade](imagens/06_Relação_volume_vs_qualidade.png)
 
 ### 7. Países únicos vs coproduções
-![Países únicos vs coproduções](imagens/07 - Países unicos vs coproduções.png)
+![Países únicos vs coproduções](imagens/07_Países_unicos_vs_coproduções.png)
 
 ### 8. Top 5 Países: Distribuição dos Gêneros de Destaque
-![Distribuição dos gêneros de destaque por país](imagens/08 - Top 5 Países Distribuição dos Gêneros de Destaque.png)
+![Distribuição dos gêneros de destaque por país](imagens/08_Top_5_Países_Distribuição_dos_Gêneros_de_Destaque.png)
 
 ### 9. Joias Escondidas do Top 2000
-![Joias Escondidas](imagens/09 - Joias Escondidas Do Top 2000.png)
+![Joias Escondidas](imagens/09_Joias_Escondidas_Do_Top_2000.png)
 
 ### 10. Popularidade vs qualidade
-![Popularidade vs qualidade](imagens/10 - Popularidade vs qualidade.png)
+![Popularidade vs qualidade](imagens/10_Popularidade_vs_qualidade.png)
 
 ## Como rodar
 ```bash
