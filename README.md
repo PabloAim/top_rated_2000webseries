@@ -1,5 +1,23 @@
-## Insights Principais da Análise
-A seguir, os principais insights estratégicos extraídos da análise do Top 2000 séries mais bem avaliadas (TMDB - 2025).
+# Análise do Top 2000 Séries Mais Bem Avaliadas do Mundo (TMDB - 2025)
+
+Projeto de análise exploratória de dados com foco em insights estratégicos do mercado de séries de TV e streaming.
+
+**Principais temas abordados:**
+- Colapso de produção pós-pandemia e greves
+- Ascensão de Japão e Coreia do Sul com produção nacional
+- Relação entre volume de séries e qualidade percebida
+- Identificação de "joias escondidas" subvalorizadas pelo algoritmo
+
+**Tecnologias:** Python, pandas, matplotlib, seaborn, Jupyter Notebook
+
+**Autor:** Pablo Torres  
+Analista de Dados em formação avançada, com sólida base em tecnologia e especialização em inteligência de negócios.  
+
+- Graduado em Sistemas de Informação  
+- Pós-graduado em Big Data para Business Analytics e Business Intelligence  
+- Atualmente no 3º semestre de Ciência de Dados e Inteligência Artificial
+
+---
 
 ### Insight 1: Top 15 Países
 
@@ -149,3 +167,42 @@ Conclusão Final Do Projeto
 * Existem dezenas de obras-primas com nota ≥ 8.4 que poucas pessoas conhecem
 * Japão, Coreia e produções independentes dominam essas "joias escondidas"
 * Hollywood domina visibilidade, mas não domina mais qualidade absoluta
+
+## Gráficos Principais
+
+### 1. Top 15 Países
+![Top 15 Países](imagens/01 - Top 15 países.png)
+
+### 2. Top 15 Idiomas
+![Top 15 Idiomas](imagens/02 - Top 15 idiomas.png)
+
+### 3. Top 20 Séries
+![Top 20 Séries](imagens/03 - Top 20 Series.png)
+
+### 4. Gêneros mais presentes e distribuição dominante
+![Gêneros mais presentes e distribuição dominante](imagens/04 - Gêneros mais presentes e distribuição dominante.png)
+
+### 5. Queda de séries de qualidade pós-2020
+![Queda de séries de qualidade](imagens/05 - Queda de séries de qualidade.png)
+
+### 6. Relação volume vs qualidade
+![Relação volume vs qualidade](imagens/06 - Relação volume vs qualidade.png)
+
+### 7. Países únicos vs coproduções
+![Países únicos vs coproduções](imagens/07 - Países unicos vs coproduções.png)
+
+### 8. Top 5 Países: Distribuição dos Gêneros de Destaque
+![Distribuição dos gêneros de destaque por país](imagens/08 - Top 5 Países Distribuição dos Gêneros de Destaque.png)
+
+### 9. Joias Escondidas do Top 2000
+![Joias Escondidas](imagens/09 - Joias Escondidas Do Top 2000.png)
+
+### 10. Popularidade vs qualidade
+![Popularidade vs qualidade](imagens/10 - Popularidade vs qualidade.png)
+
+## Como rodar
+```bash
+git clone https://github.com/PabloAim/top_rated_2000webseries.git
+cd top_rated_2000webseries
+pip install pandas matplotlib seaborn jupyter
+jupyter notebook
