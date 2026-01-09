@@ -45,7 +45,7 @@ Os países dominantes no Top 2000 mostram uma centralização clara da produçã
 
 Na base do Top 15, encontramos **Germany (11 séries)** e **Argentina (10 séries)**, que, apesar do volume menor, conseguem manter presença em um ranking altamente competitivo.
 
-![Top 15 Países](imagens/01_Top_15_países.png)
+![Top 15 Países](imagens/01_Top_15_países.png)
 
 ### Análise Técnica (1): Dispersão e Domínio de Mercado
 
