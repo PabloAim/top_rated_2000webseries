@@ -23,14 +23,17 @@ Analista de Dados em formação avançada, com sólida base em tecnologia e espe
 ---
 
 ## 📑 Sumário
-1. [Metodologia e Dados](#metodologia)
-2. [Insight 1: Top 15 Países (Concentração de Mercado)](#insight-1-top-15-países--concentração-de-mercado)
-3. [Insight 2: Top 15 Idiomas (Hegemonia do Inglês)](#insight-2-top-15-idiomas-originais--a-hegemonia-do-inglês)
-4. [Tabela de Referência: Top 20 Mundial](#-detalhamento-o-top-20-mundial-qualidade-e-engajamento)
-5. [Insight 3: Gêneros e o Quadrante de Ouro](#insight-3-gêneros-mais-presentes--o-quadrante-de-ouro-do-entretenimento)
-6. [Insight 4: O Abismo Produtivo Pós-2020](#insight-4-queda-de-séries-de-alta-qualidade-pós-2020--o-impacto-da-crise)
-7. [Insight 5: Estratégia de Quadrantes (Volume vs Qualidade)](#insight-5-relação-volume-vs-qualidade--quadrantes-estratégicos-de-mercado)
-8. [Como rodar o projeto](#-como-rodar)
+1. [Insight 1: Top 15 Países — Concentração de Mercado](#insight-1-top-15-países--concentração-de-mercado)
+2. [Insight 2: Top 15 Idiomas Originais — A Hegemonia do Inglês](#insight-2-top-15-idiomas-originais--a-hegemonia-do-inglês)
+3. [Detalhamento: O Top 20 Mundial (Qualidade e Engajamento)](#detalhamento-o-top-20-mundial-qualidade-e-engajamento)
+4. [Insight 3: Gêneros mais presentes + Distribuição 5 gêneros dominantes](#insight-3-gêneros-mais-presentes--distribuição-5-gêneros-dominantes)
+5. [Insight 4: Queda de séries de alta qualidade pós-2020](#insight-4-queda-de-séries-de-alta-qualidade-pós-2020)
+6. [Insight 5: Relação Volume vs. Qualidade Média - Quadrantes de Mercado](#insight-5-relação-volume-vs-qualidade-média---quadrantes-de-mercado)
+7. [Insight 6: Países únicos VS Coproduções](#insight-6-países-únicos-vs-coproduções)
+8. [Insight 7: Top 5 Países: Distribuição dos Gêneros de Destaque](#insight-7-top-5-países-distribuição-dos-gêneros-de-destaque)
+9. [Insight 8: Top 10 Joias Escondidas Do Top 2000](#insight-8-top-10-joias-escondidas-do-top-2000)
+10. [Insight 9: Popularidade vs Nota média - Conclusão Final do Projeto](#insight-9-popularidade-vs-nota-média---conclusão-final-do-projeto)
+11. [Como rodar](#como-rodar)
 
 ---
 
@@ -87,7 +90,8 @@ Com base na tabela acima, extraímos a distribuição categórica para entender 
 
 * **Diversidade Linguística:** Apesar do domínio americano, **8 séries** no Top 20 não são originalmente em inglês (majoritariamente produções japonesas).
 
-![Gêneros mais presentes e distribuição dominante](imagens/04_Gêneros_mais_presentes_e_distribuição_dominante.png)
+![Gêneros mais presentes e distribuição dominante](imagens/04_Gêneros_mais_presentes_e_distribuição_dominante.png)
+
 
 ## Análise Técnica (3): Padrões de Sucesso e Rentabilidade
 
@@ -107,7 +111,7 @@ A análise histórica revela um cenário preocupante para a indústria: após at
 
 * **Retração Crítica:** O mercado enfrenta uma **queda de 86%** na produção de séries de alta qualidade em relação ao topo de 2020.
 
-![Queda de séries de qualidade](imagens/05_Queda_de_séries_de_qualidade.png)
+![Queda de séries de qualidade](imagens/05_Queda_de_séries_de_qualidade.png)
 
 ### Análise Técnica (4): Contexto Industrial e Fatores de Queda
 
@@ -129,7 +133,7 @@ A análise cruza a quantidade de séries produzidas com a avaliação média do 
 
 * **Qualidade Absoluta (Outlier):** **Animation** é o grande destaque positivo, sendo o único gênero do Top 10 com nota média acima de 8.0 (**8.043**).
 
-![Relação volume vs qualidade](imagens/06_Relação_volume_vs_qualidade.png)
+![Relação volume vs qualidade](imagens/06_Relação_volume_vs_qualidade.png)
 
 ### Análise Técnica (5): Posicionamento Estratégico por Quadrante
 
@@ -169,7 +173,7 @@ Esta análise final explora como a produção 100% nacional se compara às parce
 
 * **Mexico & United States:** 6 séries.
 
-![Países únicos vs coproduções](imagens/07_Países_unicos_vs_coproduções.png)
+![Países únicos vs coproduções](imagens/07_Países_unicos_vs_coproduções.png)
 
 ### Análise Técnica (6): Visões Principais sobre Independência e Parceria
 
@@ -193,7 +197,7 @@ Esta análise compara como as empresas do entretenimento distribuem seus investi
 
 * **Foco Regional (Coreia do Sul):** A **South Korea** concentra sua força quase exclusivamente em **Drama (100 séries)**, validando a ascensão e a alta qualidade dos K-dramas no ranking global.
 
-![Distribuição dos gêneros de destaque por país](imagens/08_Top_5_Países_Distribuição_dos_Gêneros_de_Destaque.png)
+![Distribuição dos gêneros de destaque por país](imagens/08_Top_5_Países_Distribuição_dos_Gêneros_de_Destaque.png)
 
 ### Análise Técnica (7): Conclusão de Mercado e Competitividade
 
@@ -244,6 +248,16 @@ Este gráfico de dispersão com linha de tendência resume o grande aprendizado 
 ### Análise Técnica (9): Síntese Estratégica
 
 A análise final demonstra que a indústria do entretenimento possui um vasto inventário de alta qualidade subutilizado. A dominância de visibilidade americana não reflete mais a soberania qualitativa, abrindo espaço para que plataformas de streaming se tornem curadoras globais, conectando o público a essas obras-primas independentes.
+
+---
+
+> Obrigado por acompanhar meu projeto. Me empenhei muito nele.
+> 
+> Se você busca um profissional com foco em transformar dados brutos em decisões inteligentes, vamos conversar:
+
+* **LinkedIn:** [Pablo Torres](https://www.linkedin.com/in/pablo-torres-2a6972239/) 
+* **GitHub:** [Ver outros projetos](https://github.com/PabloAim) 
+* **Email:** pabloaim@icloud.com
 
 ---
 
