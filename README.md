@@ -10,7 +10,7 @@ Projeto de análise exploratória de dados com foco em insights estratégicos do
 
 **Metodologia:**
 
-**"Nota:** Os nomes de variáveis geográficas e linguísticas foram mantidos em seu formato original (inglês) para preservar a integridade dos dados extraídos via API do TMDB."
+**"Nota:** Os nomes de variáveis foram mantidos em seu formato original (inglês) para preservar a integridade dos dados extraídos.
 
 **Tecnologias:** Python, pandas, matplotlib, seaborn, Jupyter Notebook
 
@@ -248,6 +248,12 @@ Este gráfico de dispersão com linha de tendência resume o grande aprendizado 
 ### Análise Técnica (9): Síntese Estratégica
 
 A análise final demonstra que a indústria do entretenimento possui um vasto inventário de alta qualidade subutilizado. A dominância de visibilidade americana não reflete mais a soberania qualitativa, abrindo espaço para que plataformas de streaming se tornem curadoras globais, conectando o público a essas obras-primas independentes.
+
+---
+
+### Conclusão Final
+Esta análise do top 2000 séries mostra que o mercado está em um momento de mudanças. Embora os Estados Unidos sejam os campeões absolutos em basicamente todos os gêneros, Japão e Coreia do Sul têm conquistado seus espaços em nichos específicos, animação e drama, respectivamente.
+As joias escondidas nos mostram que há uma grande quantidade de títulos de alta qualidade, porém não tão conhecidos pelo publico, seja pelo algoritmo ou pouca divulgação. Isso representa uma oportunidade clara para as plataformas que desejam oferecer aos seus usuários acesso ao que há de melhor de conteúdos, independente da popularidade.
 
 ---
 
