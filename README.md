@@ -10,7 +10,7 @@ Projeto de análise exploratória de dados com foco em insights estratégicos do
 
 **Metodologia:**
 
-**"Nota:** Os nomes de variáveis foram mantidos em seu formato original (inglês) para preservar a integridade dos dados extraídos.
+**Nota:** Os nomes de variáveis foram mantidos em seu formato original (inglês) para preservar a integridade dos dados extraídos.
 
 **Tecnologias:** Python, pandas, matplotlib, seaborn, Jupyter Notebook
 
